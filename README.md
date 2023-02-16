@@ -6,3 +6,5 @@
 ### Infrastructure deployment
 
 ### IOT configurations
+
+### Copyright
