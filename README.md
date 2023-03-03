@@ -6,3 +6,5 @@
 ### Infrastructure deployment
 
 ### IOT configurations
+
+# test via webui
